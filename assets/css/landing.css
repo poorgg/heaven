@@ -1,5 +1,5 @@
 body {
-    background-color: #CBC3E3;
+    background-color: #b18fcc;
     font-family: "mc";
     color: #fff;
     display: flex;
@@ -19,7 +19,7 @@ body {
 }
 
 #enter {
-    background-color: #CBC3E3;
+    background-color: #b18fcc;
     width: 100%;
     height: 100%;
     color: #fff;
